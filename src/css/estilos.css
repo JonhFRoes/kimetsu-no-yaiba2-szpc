@@ -6,7 +6,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url(../imgem/fundo-3.png);
+    background-image: url(../imgem/fundo-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
